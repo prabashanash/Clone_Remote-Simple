@@ -2,6 +2,8 @@
 
 This Arduino code allows an Arduino board to learn and playback Infrared (IR) remote control signals. It utilizes the `IRremoteESP8266` library for IR communication and the `LowPower` library for power saving.
 
+Lowpower library > https://github.com/rocketscream/Low-Power
+
 ## Features
 
 * **IR Signal Learning:** Records IR signals from a remote control and stores them based on button presses on the Arduino.
